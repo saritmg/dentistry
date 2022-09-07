@@ -1,0 +1,7 @@
+A link of a hosted website is given below:
+ https://sarita-l6.000webhostapp.com/dentists/index.php
+
+Login for admin and user:
+•	The username and password for admin:
+?	Email = sarita
+?	Password = admin

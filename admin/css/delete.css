@@ -1,0 +1,35 @@
+.title{
+	/*	position: absolute;
+*/	margin-top: 5px;
+	background-color: #3F543A;
+	text-align: center;
+	font-size: 2em;
+	color: white;
+	font-family: 'Lato', sans-serif;
+	padding: 40px 10px;
+	left: 20px;
+	text-decoration: none;
+}
+
+
+.del{
+	position: absolute;
+	margin-left: 300px;
+	font-style: oblique;
+}
+
+#submit-yes{
+	background-color: #87BC78;
+	padding: 10px 20px;
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 80px;
+	margin-left: 500px;
+}
+
+#submit-no{
+	background-color: #87BC78;
+	padding: 10px 20px;
+	font-weight: bold;
+	font-size: 20px;
+}
